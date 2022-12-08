@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5bbdb63-53b4-47bc-a17a-37d07fcc290b" name="Default Changelist" comment="" />
+    <list default="true" id="b5bbdb63-53b4-47bc-a17a-37d07fcc290b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Програмування для ОС Linux/Lab3" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -88,6 +90,8 @@
       <updated>1667657870973</updated>
       <workItem from="1667657921493" duration="6366000" />
       <workItem from="1668679837242" duration="66000" />
+      <workItem from="1669564754358" duration="428000" />
+      <workItem from="1669831109319" duration="213000" />
     </task>
     <servers />
   </component>
